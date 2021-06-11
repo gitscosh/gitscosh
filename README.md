@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Scosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitscosh&hide=stars,issues&count_private=true&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitscosh)](https://github.com/anuraghazra/github-readme-stats)
