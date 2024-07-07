@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
 - ⚡ Fun fact: There's coffee in that nebula!
-- 
 <!-- [![Scosh's GitHub stats](https://github-readme-stats-scotias-projects.vercel.app/api?username=gitscosh&hide=stars,issues&count_private=true&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats) -->
